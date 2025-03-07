@@ -1,6 +1,6 @@
-# 📊 Stock Performance Dashboard
+# 📊 Stock Analytics Dashboard
 
-A modern and responsive **Stock Performance Dashboard** built with **React** and **Recharts**. This app provides real-time stock data visualization, including stock price charts and tables.
+A modern and responsive **Stock Analytics Dashboard** built with **React** and **Recharts**. This app provides real-time stock data visualization, including stock price charts and tables.
 
 ## 🚀 Features
 
