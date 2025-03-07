@@ -2,6 +2,11 @@
 
 A modern and responsive **Stock Analytics Dashboard** built with **React** and **Recharts**. This app provides real-time stock data visualization, including stock price charts and tables.
 
+## 🌐 Deploy Link
+
+You can view the live version of Stock Analytics Dashboard website here:  
+- **Netlify**: [**https://market-metrics.netlify.app/**]
+
 ## 🚀 Features
 
 - 📈 **Stock Chart** – Interactive bar chart with zooming functionality.
